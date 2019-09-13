@@ -1,5 +1,12 @@
 #	Data Analysis: Ecuador
 
+_What's this repo for?_
+
+##  Dependencies
+
+* [pandas](https://pandas.pydata.org/)
+* [matplotlib](https://matplotlib.org/)
+* [basemap](https://anaconda.org/anaconda/basemap)
 
 <hr>
 
