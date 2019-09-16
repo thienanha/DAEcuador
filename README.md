@@ -1,6 +1,6 @@
 #	Data Analysis: Ecuador
 
-_What's this repo for?_
+_MPH Capstone project_
 
 ##  Dependencies
 
