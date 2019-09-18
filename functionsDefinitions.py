@@ -1,11 +1,11 @@
 import pandas as pd
 
 
-def getSortedCols(dataframe):
+def getSortedColumns(dataframe):
     return sorted(list(dataframe.columns))
 
 
-def listColEls(dataframe, column):
+def listColumnElements(dataframe, column):
     return list(dataframe.get(column))
 
 
