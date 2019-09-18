@@ -20,6 +20,6 @@ def cleanMergeDataframes(dfLeft, dfRight, how='inner'):
     overlap = getOverlappingColumns(dfLeft, dfRight)
     dataMerge = pd.merge(
         left=dfLeft, right=dfRight,
-        on=overlap, how='inner'
+        on=overlap, how=how
     )
     return dataMerge
