@@ -6,7 +6,7 @@ def getSortedColumns(dataframe):
     return sorted(list(dataframe.columns))
 
 
-def listColumnElements(dataframe, column):
+def listColumnEntries(dataframe, column):
     # Returns a list with the elements contained in the dataframe's column
     return list(dataframe.get(column))
 
